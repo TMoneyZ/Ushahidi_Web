@@ -5,7 +5,7 @@
  *
  * PHP version 5
  * LICENSE: This source file is subject to LGPL license 
- * that is available through the world-wide-web at the following URI:
+ * thatjya is available through the world-wide-web at the following URI:
  * http://www.gnu.org/copyleft/lesser.html
  * @author     Ushahidi Team <team@ushahidi.com> 
  * @package    Ushahidi - http://source.ushahididev.com
